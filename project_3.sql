@@ -1,1 +1,0 @@
---Option 1: data [customers] is allocated based off the amount of money at the end of the previous month
