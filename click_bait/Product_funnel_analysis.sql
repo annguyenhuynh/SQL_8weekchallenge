@@ -1,3 +1,5 @@
+--I learned to generate this table from another Github account
+
 --Product Analysis
 with joined_table as (
 select 
