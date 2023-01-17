@@ -189,3 +189,4 @@ select * from ranking where rn=1
 --This is a combinatoric question where we need to test all possible combinations from 12 items.
 --Then, we need to choose the combination that occurs most frequently.
 --The idea is to do self-join so that the items are in same transaction but the product_id is different. 
+--I learn the logic and how to compose query for this question from other Github users
